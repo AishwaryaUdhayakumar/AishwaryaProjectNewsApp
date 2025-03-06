@@ -1,0 +1,2 @@
+# AishwaryaProjectNewsApp
+News application
